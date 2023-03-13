@@ -19,5 +19,9 @@
   "homepage": "https://github.com/rochacaio/compliments-api#readme",
   "dependencies": {
     "git-commit-msg-linter": "^4.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.2",
+    "typescript": "^4.9.5"
   }
 }
