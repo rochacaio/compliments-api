@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rochacaio/compliments-api/issues"
   },
-  "homepage": "https://github.com/rochacaio/compliments-api#readme"
+  "homepage": "https://github.com/rochacaio/compliments-api#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^4.9.2"
+  }
 }
